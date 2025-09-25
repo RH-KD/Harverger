@@ -12,8 +12,8 @@
     <header>
         <h1>Welcome to Harverger</h1>
         <nav>
-            <a href="/">Home</a>
-            <a href="/user">Users</a>
+            <a href="/login">Log in</a>
+            <a href="/signup">Sign up</a>
         </nav>
     </header>
 
