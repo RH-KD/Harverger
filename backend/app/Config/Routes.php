@@ -10,3 +10,4 @@ use CodeIgniter\Router\RouteCollection;
 $routes->get('/', 'Users::index');
 $routes->get('/login', 'Login::index');
 $routes->get('/dashboard', 'Login::dashboard');
+$routes->get('/signup', 'Users::signup');
