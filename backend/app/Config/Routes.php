@@ -11,3 +11,4 @@ $routes->get('/', 'Users::index');
 $routes->get('/login', 'Login::index');
 $routes->get('/dashboard', 'Login::dashboard');
 $routes->get('/signup', 'Users::signup');
+$routes->get('/roadmap', 'Users::roadmap');
